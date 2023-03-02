@@ -1,0 +1,17 @@
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\bin\Debug\net6.0\Exercicio2.exe
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\bin\Debug\net6.0\Exercicio2.deps.json
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\bin\Debug\net6.0\Exercicio2.runtimeconfig.json
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\bin\Debug\net6.0\Exercicio2.dll
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\bin\Debug\net6.0\Exercicio2.pdb
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\obj\Debug\net6.0\Exercicio2.csproj.AssemblyReference.cache
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\obj\Debug\net6.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\obj\Debug\net6.0\Exercicio2.AssemblyInfoInputs.cache
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\obj\Debug\net6.0\Exercicio2.AssemblyInfo.cs
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\obj\Debug\net6.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\obj\Debug\net6.0\Exercicio2.csproj.CopyComplete
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\obj\Debug\net6.0\Exercicio2.dll
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\obj\Debug\net6.0\refint\Exercicio2.dll
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\obj\Debug\net6.0\Exercicio2.pdb
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\obj\Debug\net6.0\Exercicio2.genruntimeconfig.cache
+C:\C#\ProcessoSeletivoTarget\ProcessoSeletivoTarget\Exercicio2\obj\Debug\net6.0\ref\Exercicio2.dll
